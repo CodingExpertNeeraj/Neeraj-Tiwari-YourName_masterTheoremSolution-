@@ -1,2 +1,2 @@
-# Neeraj-Tiwari-YourName_masterTheoremSolution-
+# Neeraj-Tiwari_masterTheoremSolution
 masterTheoremSolution assignment
